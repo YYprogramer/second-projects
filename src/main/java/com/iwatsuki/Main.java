@@ -10,7 +10,7 @@ public class Main {
         prefectureCapitals.put("青森県", "青森");
         prefectureCapitals.put("岩手県", "盛岡");
 
-        System.out.println(prefectureCapitals.get("岩手県"));
+        System.out.println(prefectureCapitals.get("青森県"));
 
     }
 }
